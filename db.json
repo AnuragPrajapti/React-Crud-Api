@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "Anurag Prajpati",
+      "email": "anurag@gmail.com",
+      "password": "123456",
+      "number": "9876543210",
+      "date": "1998-04-04",
+      "id": 1
+    },
+    {
+      "name": "Kamlesh Prajpati",
+      "email": "kamlesh@gmail.com",
+      "password": "123456",
+      "number": "98765433211",
+      "date": "2022-08-02",
+      "id": 2
+    },
+    {
+      "name": "Nikita  Patel",
+      "email": "nikita@gmail.com",
+      "password": "nikita",
+      "number": "9988556622",
+      "date": "2022-10-01",
+      "id": 3
+    }
+  ]
+}
